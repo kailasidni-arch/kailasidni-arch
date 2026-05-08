@@ -13,9 +13,12 @@ Welcome to my GitHub! I'm a passionate tech enthusiast currently focused on buil
 
 ---
 
-### 📈 GitHub Stats
-![Kaila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasidni-arch&show_icons=true&theme=tokyonight)
-
+### 📈 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kailasidni-arch&show_icons=true&theme=tokyonight" alt="Kaila's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailasidni-arch&theme=tokyonight" alt="Kaila's Streak Stats" />
+</p>
 ---
 
 ### 📫 Let's Connect!
